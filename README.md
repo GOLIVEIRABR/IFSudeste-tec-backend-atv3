@@ -3,7 +3,7 @@
 
 ### Descrição
 
-Esta é a terceira atividade da disciplina de **Tecnologias Backend** do curso de especialização em **Desenvolvimento Web e Mobile do IFSudeste - Campus Rio Pomba**. O seu objetivo foi apresentar as primeiras características do **Express.js* subindo um servidor simples como exemplo.
+Esta é a terceira atividade da disciplina de **Tecnologias Backend** do curso de especialização em **Desenvolvimento Web e Mobile do IFSudeste - Campus Rio Pomba**. O seu objetivo foi apresentar as primeiras características do **Express.js** subindo um servidor simples como exemplo.
 
 Maiores informações estão no vídeo abaixo:
 
